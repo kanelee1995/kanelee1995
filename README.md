@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Lofi coding](https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
+
+
 - 🔭 I’m currently working on a Bug Tracking project.
 - 🌱 I’m currently learning more about React and styled component.
 - 🤔 I’m looking for help with any job opening opportunities.
