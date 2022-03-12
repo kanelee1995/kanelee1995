@@ -11,4 +11,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I use PARA for digital inforamtion management tool and a modified Zettelkasten note-taking method.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanelee1995)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
