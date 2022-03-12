@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with any job opening opportunities.
 - 💬 Ask me about anything related productivity and self-learning technique.
 - 📫 How to reach me: Facebook / Email
-- 😄 Pronouns: He/His
+- 😄 Top tools used: Notion (for project management, notes & live management) TogglTrack & Google Task. 
 - ⚡ Fun fact: I use PARA for digital inforamtion management tool and a modified Zettelkasten note-taking method.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanelee1995)](https://github.com/anuraghazra/github-readme-stats)
