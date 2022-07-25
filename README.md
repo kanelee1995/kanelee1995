@@ -1,13 +1,12 @@
 ### Hi there, I am Kane. 👋
 
-## I'm a running a fulltime private tutoring business and exploring the programming world.
+## I am a professional Front End Deveoper now learning backend techology
 
 ![Lofi coding](https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
 ## A little about me
-- 🔭 I’m currently working on a Bug Tracking project.
+- 🔭 I’m currently attending Harvard CS50 course.
 - 🌱 I’m currently learning more about React and styled component.
-- 🤔 I’m looking for help with any job opening opportunities.
 - 💬 Ask me about anything related productivity and self-learning technique.
 - 📫 How to reach me: Facebook / Email
 - 😄 Top tools used: Notion (for project management, notes & live management) TogglTrack & Google Task. 
