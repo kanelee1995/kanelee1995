@@ -3,9 +3,8 @@
 ## I am a professional Front End Deveoper now learning backend techology
 
 ## A little about me
-- 🔭 I’m currently attending Harvard CS50 course.
-- 🌱 I’m currently learning more about React and styled component.
-- 💬 Ask me about anything related productivity and self-learning technique.
+- 🔭 I’m currently attending MOOC JAVA program by University of Helsinki.
+- 💬 Ask me about anything related productivity and self-learning techniques.
 - 📫 How to reach me: Facebook / Email
 - 😄 Top tools used: Notion (for project management, notes & live management) TogglTrack & Google Task. 
 - ⚡ Fun fact: I use PARA for digital inforamtion management tool and a modified Zettelkasten note-taking method.
