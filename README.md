@@ -2,8 +2,6 @@
 
 ## I am a professional Front End Deveoper now learning backend techology
 
-![Lofi coding](https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
-
 ## A little about me
 - 🔭 I’m currently attending Harvard CS50 course.
 - 🌱 I’m currently learning more about React and styled component.
